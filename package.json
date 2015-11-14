@@ -1,0 +1,18 @@
+{
+  "name": "wechat-step",
+  "version": "1.0.0",
+  "description": "刷微信运动步数",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "wechat",
+    "step"
+  ],
+  "author": "xwartz <stddup@gmail.com> (https://github.com/xwartz/)",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^1.4.0"
+  }
+}
