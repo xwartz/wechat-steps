@@ -1,6 +1,6 @@
 {
   "name": "wechat-steps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "刷微信运动步数",
   "main": "app.js",
   "scripts": {
@@ -10,6 +10,11 @@
     "wechat",
     "steps"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xwartz/wechat-steps.git"
+  },
+  "homepage": "https://github.com/xwartz/wechat-steps",
   "author": "xwartz <stddup@gmail.com> (https://github.com/xwartz/)",
   "license": "MIT",
   "dependencies": {
@@ -18,5 +23,6 @@
   "repository": {
     "type": "git",
     "url": "git@xwartz.github.com:xwartz/wechat-steps.git"
-  }
+  },
+  "devDependencies": {}
 }

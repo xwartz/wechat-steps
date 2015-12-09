@@ -7,3 +7,7 @@
 2. ***更改 `config.js` 里的 `uid` 就是乐动力的账户 ID，更改步数 `steps`***;
 3. `npm i`
 4. `npm test`
+
+
+### license
+MIT
