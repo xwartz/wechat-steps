@@ -37,7 +37,7 @@ const list = [{
 
 let values = {
   'pc': '0b8e1458c8495be3b276105ed907938e249f91d6',
-  'v': '5.5 ios',
+  'v': '5.8 ios',
   'vc': '540 ios',
   'action': 'profile',
   'cmd': 'updatedaily',

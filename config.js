@@ -2,6 +2,6 @@
 // 请把 uid 更改为自己乐动力的 ID ...
 
 exports.config = {
-    'steps': 23333,
+    'steps': 22222,
     'uid': '39808769'
 }
